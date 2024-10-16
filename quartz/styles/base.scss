@@ -16,7 +16,7 @@ html {
 
 em {
   font-style: italic;
-  font: Newspaper;
+  font-family: "Newsreader";
 }
 
 body,
@@ -78,8 +78,10 @@ strong {
 }
 
 a {
-  font-weight: $semiBoldWeight;
-  text-decoration: none;
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 400;
+   text-decoration: none;
   transition: color 0.2s ease;
   color: var(--secondary);
 
