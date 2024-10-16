@@ -16,6 +16,7 @@ html {
 
 em {
   font-style: italic;
+  font-weight: 700;
   font-family: "Newsreader";
 }
 
@@ -78,10 +79,9 @@ strong {
 }
 
 a {
-  font-family: "Newsreader";
   font-style: italic;
   font-weight: 400;
-   text-decoration: none;
+  text-decoration: none;
   transition: color 0.2s ease;
   color: var(--secondary);
 
