@@ -1,44 +1,29 @@
+
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [
-    Component.PageTitle(),
-    Component.Darkmode(),
-  ],
-  afterBody: [
-    Component.Backlinks(),
-  ],
+  header: [],
+  afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/keyyard/blogs"
-        },
+      GitHub: "https://github.com/keyyard/blogs",
+    },
   }),
 }
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
-  beforeBody: [
-    Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-  ],
-  left: [
-  ],
+  beforeBody: [Component.ArticleTitle(), Component.ContentMeta(), Component.TagList()],
+  left: [],
   right: [],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
-  ],
+  beforeBody: [Component.ArticleTitle()],
+  left: [],
   right: [],
 }
