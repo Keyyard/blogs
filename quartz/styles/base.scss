@@ -3,8 +3,8 @@
 @use "./callouts.scss";
 
 @font-face {
-  font-family: "Geist";
-  src: url("static/fonts/geist/Geist-Regular.woff2") format("woff2");
+  font-family: Geist;
+  src: url("../static/geist/Geist-Regular.woff2") format("woff2");
 }
 
 html {
@@ -12,6 +12,11 @@ html {
   text-size-adjust: none;
   overflow-x: hidden;
   width: 100vw;
+}
+
+em {
+  font-style: italic;
+  font: Newspaper;
 }
 
 body,
