@@ -1,6 +1,13 @@
 @use "../../styles/variables.scss" as *;
 
 .backlinks {
+    color: var(--dark);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-weight: 400;
+    display: flex;
   flex-direction: column;
   /*&:after {
       pointer-events: none;

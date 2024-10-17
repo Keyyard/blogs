@@ -1,4 +1,12 @@
-# Quartz v4
+# Keyyard's Digital Garden 🌱
+
+This is my digital garden, a place where I grow my thoughts.
+
+I will be randomly writing about tidbits, valuable mindsets or brilliant works that I found everywhere and hope this could be _inspirational_.
+
+# Technology used:
+
+## Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
@@ -9,7 +17,7 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
-## Sponsors
+## Sponsors Quartz
 
 <p align="center">
   <a href="https://github.com/sponsors/jackyzha0">
