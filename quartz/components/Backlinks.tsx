@@ -20,7 +20,7 @@ const Backlinks: QuartzComponent = ({
           backlinkFiles.map((f) => (
             <li>
               <a href={resolveRelative(fileData.slug!, f.slug!)} class="internal back">
-              ← Go Back to {f.title}
+              ← Go back
               </a>
             </li>
           ))
