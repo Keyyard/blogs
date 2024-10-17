@@ -1,7 +1,7 @@
 ---
-title: "Inception: The beginning of my writing journey"
+title: "Inception"
 ---
-I don't really do writing, like blogging or such, well except from literatures classes of course. I do enjoy literature tho. But this blog should be all about _my growth_. 
+I don't really do writing, like blogging or such, well except from literatures classes of course. I do enjoy literature tho. But this blog should be all about my _growth_. 
 
 I will be randomly writing about tidbits, valuable mindsets or brilliant works that I found everywhere and hope this could be _inspirational_.
 

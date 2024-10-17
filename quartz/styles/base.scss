@@ -169,11 +169,11 @@ a {
     row-gap: #{map-get($desktopGrid, rowGap)};
     grid-template-areas: #{map-get($desktopGrid, templateAreas)};
     @media all and ($desktop) {
-      grid-template-columns: #{map-get($tabletGrid, templateColumns)};
-      grid-template-rows: #{map-get($tabletGrid, templateRows)};
-      column-gap: #{map-get($tabletGrid, columnGap)};
-      row-gap: #{map-get($tabletGrid, rowGap)};
-      grid-template-areas: #{map-get($tabletGrid, templateAreas)};
+      grid-template-columns: #{map-get($desktopGrid, templateColumns)};
+      grid-template-rows: #{map-get($desktopGrid, templateRows)};
+      column-gap: #{map-get($desktopGrid, columnGap)};
+      row-gap: #{map-get($desktopGrid, rowGap)};
+      grid-template-areas: #{map-get($desktopGrid, templateAreas)};
     }
     @media all and ($mobile) {
       grid-template-columns: #{map-get($mobileGrid, templateColumns)};
