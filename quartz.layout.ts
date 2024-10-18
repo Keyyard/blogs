@@ -8,25 +8,25 @@ export const sharedPageComponents: SharedLayout = {
   ],
   afterBody: [
     Component.Backlinks(),
-    Component.Darkmode(),
-    Component.Comments({
-      provider: 'giscus',
-      options: {
-        // from data-repo
-        repo: 'keyyard/blogs',
-        // from data-repo-id
-        repoId: 'R_kgDONBaYDw',
-        // from data-category
-        category: 'Announcements',
-        // from data-category-id
-        categoryId: 'DIC_kwDONBaYD84CjdXM',
-        reactionsEnabled: false,
-        inputPosition: 'top',
-        themeUrl: "https://keyyard.github.io/blogs/static/giscus",
-        lightTheme: "light",
-        darkTheme: "dark"
-          }
-    })  
+    Component.Darkmode()
+    // Component.Comments({
+    //   provider: 'giscus',
+    //   options: {
+    //     // from data-repo
+    //     repo: 'keyyard/blogs',
+    //     // from data-repo-id
+    //     repoId: 'R_kgDONBaYDw',
+    //     // from data-category
+    //     category: 'Announcements',
+    //     // from data-category-id
+    //     categoryId: 'DIC_kwDONBaYD84CjdXM',
+    //     reactionsEnabled: false,
+    //     inputPosition: 'top',
+    //     themeUrl: "https://keyyard.github.io/blogs/static/giscus",
+    //     lightTheme: "light",
+    //     darkTheme: "dark"
+    //       }
+    // })  
   ],
   footer: 
     Component.Footer({
