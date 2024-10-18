@@ -22,7 +22,7 @@ export const sharedPageComponents: SharedLayout = {
         categoryId: 'DIC_kwDONBaYD84CjdXM',
         reactionsEnabled: false,
         inputPosition: 'top',
-        themeUrl: "https://github.com/Keyyard/blogs/tree/main/quartz/static/giscus",
+        themeUrl: "https://keyyard.github.io/blogs/static/giscus",
         lightTheme: "custom-light",
         darkTheme: "custom-dark"
           }
