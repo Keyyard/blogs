@@ -2,7 +2,7 @@
   By Keyyard @keyyard
  */
 
- :root {
+ main {
     --color-background: #F2F7F2; /* var(--light) */
     --color-foreground: #314531; /* var(--dark) */
     --color-primary: #49684A; /* var(--secondary) */

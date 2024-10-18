@@ -3,7 +3,7 @@
   By Keyyard @keyyard
  */
 
- :root {
+ main {
     --color-background: #161618; /* var(--dark) */
     --color-foreground: #F2F7F2; /* var(--light) */
     --color-primary: #7BA47C; /* var(--secondary) */
