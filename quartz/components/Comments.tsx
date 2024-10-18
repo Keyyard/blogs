@@ -1,6 +1,5 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
-import { googleFontHref } from "../util/theme"
 // @ts-ignore
 import script from "./scripts/comments.inline"
 
@@ -11,11 +10,8 @@ type Options = {
     repoId: string
     category: string
     categoryId: string
-    mapping?: "url" | "title" | "og:title" | "specific" | "number" | "pathname"
-    strict?: boolean
-    reactionsEnabled?: boolean
-    inputPosition?: "top" | "bottom"
-   // Url to folder with custom themes
+ 
+    // Url to folder with custom themes
     // defaults to 'https://${cfg.baseUrl}/static/giscus'
     themeUrl?: string
  
@@ -26,7 +22,23 @@ type Options = {
     // filename for dark theme .css file
     // defaults to 'dark'
     darkTheme?: string
-    }
+ 
+    // how to map pages -> discussions
+    // defaults to 'url'
+    mapping?: "url" | "title" | "og:title" | "specific" | "number" | "pathname"
+ 
+    // use strict title matching
+    // defaults to true
+    strict?: boolean
+ 
+    // whether to enable reactions for the main post
+    // defaults to true
+    reactionsEnabled?: boolean
+ 
+    // where to put the comment input box relative to the comments
+    // defaults to 'bottom'
+    inputPosition?: "top" | "bottom"
+  }
 }
 
 function boolToStringBool(b: boolean): string {
@@ -46,6 +58,9 @@ export default ((opts: Options) => {
         data-strict={boolToStringBool(opts.options.strict ?? true)}
         data-reactions-enabled={boolToStringBool(opts.options.reactionsEnabled ?? true)}
         data-input-position={opts.options.inputPosition ?? "bottom"}
+        data-light-theme={opts.options.lightTheme ?? "light"}
+        data-dark-theme={opts.options.darkTheme ?? "dark"}
+        data-theme-url={opts.options.themeUrl ?? "https://giscus.app/themes"}
       ></div>
     )
   }
