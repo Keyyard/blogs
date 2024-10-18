@@ -13,13 +13,13 @@ export const sharedPageComponents: SharedLayout = {
       provider: 'giscus',
       options: {
         // from data-repo
-        repo: 'jackyzha0/quartz',
+        repo: 'keyyard/blogs',
         // from data-repo-id
-        repoId: 'MDEwOlJlcG9zaXRvcnkzODcyMTMyMDg',
+        repoId: 'R_kgDONBaYDw',
         // from data-category
         category: 'Announcements',
         // from data-category-id
-        categoryId: 'DIC_kwDOFxRnmM4B-Xg6',
+        categoryId: 'DIC_kwDONBaYD84CjdXM',
       }
     })  
   ],

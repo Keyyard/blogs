@@ -31,6 +31,21 @@ export default (() => {
       gtag('js', new Date());
       gtag('config', 'G-Z3K6D9SXF4');`}
     </script>
+    <script src="https://giscus.app/client.js"
+        data-repo="keyyard/blogs"
+        data-repo-id="R_kgDONBaYDw"
+        data-category="Announcements"
+        data-category-id="DIC_kwDONBaYD84CjdXM"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />
