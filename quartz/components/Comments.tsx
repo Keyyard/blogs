@@ -40,7 +40,7 @@ export default ((opts: Options) => {
         data-light-theme={opts.options.lightTheme ?? "light"}
         data-dark-theme={opts.options.darkTheme ?? "dark"}
         data-theme-url={
-          opts.options.themeUrl ?? `https://${cfg.baseUrl ?? "example.com"}/static/giscus`
+          opts.options.themeUrl ?? `https://${cfg.baseUrl ?? "keyyard.github.io/blogs"}/static/giscus`
         }
       ></div>
     )
