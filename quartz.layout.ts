@@ -9,17 +9,19 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Component.Backlinks(),
   ],
-  footer: Component.Footer({
+  footer: [
+    Component.Footer({
     links: {
       GitHub: "https://github.com/keyyard/blogs"
         },
   }),
+  Component.Darkmode(),
+]
 }
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.Darkmode(),
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
