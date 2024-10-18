@@ -24,7 +24,6 @@ export default (() => {
       <head>
         <title>{title}</title>
         <meta charSet="utf-8" />
-                <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z3K6D9SXF4"></script>
         <script>
           window.dataLayer = window.dataLayer || [];
