@@ -10,33 +10,12 @@ type Options = {
     repoId: string
     category: string
     categoryId: string
- 
-    // Url to folder with custom themes
-    // defaults to 'https://${cfg.baseUrl}/static/giscus'
     themeUrl?: string
- 
-    // filename for light theme .css file
-    // defaults to 'light'
     lightTheme?: string
- 
-    // filename for dark theme .css file
-    // defaults to 'dark'
     darkTheme?: string
- 
-    // how to map pages -> discussions
-    // defaults to 'url'
     mapping?: "url" | "title" | "og:title" | "specific" | "number" | "pathname"
- 
-    // use strict title matching
-    // defaults to true
     strict?: boolean
- 
-    // whether to enable reactions for the main post
-    // defaults to true
     reactionsEnabled?: boolean
- 
-    // where to put the comment input box relative to the comments
-    // defaults to 'bottom'
     inputPosition?: "top" | "bottom"
   }
 }
@@ -60,7 +39,9 @@ export default ((opts: Options) => {
         data-input-position={opts.options.inputPosition ?? "bottom"}
         data-light-theme={opts.options.lightTheme ?? "light"}
         data-dark-theme={opts.options.darkTheme ?? "dark"}
-        data-theme-url={opts.options.themeUrl ?? "https://giscus.app/themes"}
+        data-theme-url={
+          opts.options.themeUrl ?? `https://${cfg.baseUrl ?? "example.com"}/static/giscus`
+        }
       ></div>
     )
   }

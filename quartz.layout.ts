@@ -23,8 +23,8 @@ export const sharedPageComponents: SharedLayout = {
         reactionsEnabled: false,
         inputPosition: 'top',
         themeUrl: "https://keyyard.github.io/blogs/static/giscus",
-        lightTheme: "custom-light",
-        darkTheme: "custom-dark"
+        lightTheme: "light",
+        darkTheme: "dark"
           }
     })  
   ],
