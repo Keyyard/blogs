@@ -26,12 +26,11 @@ export default (() => {
         <meta charSet="utf-8" />
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z3K6D9SXF4"></script>
         <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'G-Z3K6D9SXF4');
-        </script>
+      {`window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-Z3K6D9SXF4');`}
+    </script>
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />
