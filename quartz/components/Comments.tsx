@@ -1,5 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
+import { googleFontHref } from "../util/theme"
 // @ts-ignore
 import script from "./scripts/comments.inline"
 
@@ -14,7 +15,18 @@ type Options = {
     strict?: boolean
     reactionsEnabled?: boolean
     inputPosition?: "top" | "bottom"
-  }
+   // Url to folder with custom themes
+    // defaults to 'https://${cfg.baseUrl}/static/giscus'
+    themeUrl?: string
+ 
+    // filename for light theme .css file
+    // defaults to 'light'
+    lightTheme?: string
+ 
+    // filename for dark theme .css file
+    // defaults to 'dark'
+    darkTheme?: string
+    }
 }
 
 function boolToStringBool(b: boolean): string {

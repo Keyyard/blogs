@@ -20,6 +20,10 @@ export const sharedPageComponents: SharedLayout = {
         category: 'Announcements',
         // from data-category-id
         categoryId: 'DIC_kwDONBaYD84CjdXM',
+        reactionsEnabled: false,
+        inputPosition: 'top',
+        lightTheme: 'light',
+        darkTheme: 'dark'
       }
     })  
   ],
