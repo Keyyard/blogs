@@ -13,7 +13,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-Z3K6D9SXF4",
     },
     locale: "en-US",
     baseUrl: "https://keyyard.github.io/blogs/",
