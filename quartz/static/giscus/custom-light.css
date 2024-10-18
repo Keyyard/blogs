@@ -1,0 +1,14 @@
+:root {
+    --color-background: #F2F7F2; /* var(--light) */
+    --color-foreground: #314531; /* var(--dark) */
+    --color-primary: #49684A; /* var(--secondary) */
+    --color-secondary: #84a59d; /* var(--tertiary) */
+    --color-tertiary: #b8b8b8; /* var(--lightgray) */
+    --color-highlight: rgba(143, 169, 151, 0.15); /* var(--highlight) */
+    --color-text-highlight: #fff23688; /* var(--textHighlight) */
+    --color-link: #49684A; /* var(--secondary) */
+    --color-link-hover: #84a59d; /* var(--tertiary) */
+    --color-border: #b8b8b8; /* var(--lightgray) */
+    --color-code-background: #F2F7F2; /* var(--light) */
+    --color-code-foreground: #314531; /* var(--dark) */
+  }

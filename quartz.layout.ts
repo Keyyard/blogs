@@ -22,9 +22,10 @@ export const sharedPageComponents: SharedLayout = {
         categoryId: 'DIC_kwDONBaYD84CjdXM',
         reactionsEnabled: false,
         inputPosition: 'top',
-        lightTheme: 'light',
-        darkTheme: 'dark'
-      }
+        themeUrl: "https://keyyard.github.io/blogs/static/giscus",
+        lightTheme: "custom-light",
+        darkTheme: "custom-dark"
+          }
     })  
   ],
   footer: 
