@@ -81,14 +81,14 @@ export default (() => {
       "image": ogImagePath,
       "author": {
         "@type": "Person",
-        "name": "Your Name"
+        "name": "Keyyard"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "Your Blog Name",
+        "name": "Keyyard's Growth Blog",
         "logo": {
           "@type": "ImageObject",
-          "url": `${cfg.baseUrl}/path/to/logo.png`
+          "url": `https://${cfg.baseUrl}/static/og-image.png`
         }
       },
       "datePublished": "2024-10-30T00:00:00+00:00",
