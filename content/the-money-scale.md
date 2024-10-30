@@ -19,6 +19,10 @@ Many **skills contribute to financial success** beyond just technical abilities.
 
 In my view, money acts as a **scale** that measures skills across all life areas. If someone is **financially successful**, it often reflects their abilities beyond their profession. If wealth is lacking, it may be a sign to develop new skills in areas beyond the technical.
 
+### Navigation
+
+- **[← Go Back](/)**
+
 <details>
 <summary>first version of this writing</summary>
 

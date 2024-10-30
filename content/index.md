@@ -13,10 +13,11 @@ I wouldn’t usually consider myself a writer or a blogger, aside from those lit
 
 Here, you’ll find posts on **valuable mindsets**, **brilliant works**, and **inspiration** from different corners of life. These writings aim to be insightful, sharing snippets of wisdom I pick up along the way. My purpose isn’t to become a professional writer but to **reflect on my growth** over time.
 
-- Explore: [[the-money-scale|"The Money Scale"]]
-- Purpose: To enjoy and learn from the journey of evolving as a person
-
 Join me as I take this journey, with hopes it can bring value and **inspiration** to you, too.
+
+### Navigation
+
+- **[The Money Scale](/the-money-scale)**: Discover how wealth reflects life skills, not just professional expertise.
 
 <details>
 <summary>first version of this writing</summary>
