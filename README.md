@@ -1,4 +1,4 @@
-# Keyyard's Digital Garden 🌱
+# Keyyard's Blogs
 
 This is my digital garden, a place where I grow my thoughts.
 
