@@ -20,6 +20,7 @@ export default (() => {
     const iconPath = joinSegments(baseDir, "static/icon.png")
     const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
 
+    const slug = fileData.slug === "index" ? "" : fileData.slug
     return (
 <head>
   <title>{title}</title>
