@@ -21,7 +21,6 @@ In my view, money acts as a **scale** that measures skills across all life areas
 
 ### Navigation
 
-- **[← Go Back](/)**
 - **[From Loss to Lessons](/from-loss-to-lessons)**: Dive into a personal recount of financial missteps in trading and investing, uncovering the psychological pitfalls and lessons learned along the way.
 
 <details>

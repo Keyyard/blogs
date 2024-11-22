@@ -75,5 +75,4 @@ My journey has taught me invaluable lessons about **risk management**, **emotion
 
 ### Navigation
 
-- **[← Go Back](/)**
 - **[The Money Scale](/the-money-scale)**: Discover how wealth reflects life skills, not just professional expertise.
