@@ -16,7 +16,7 @@ const Backlinks: QuartzComponent = ({
     <div class={classNames(displayClass, "backlinks")}>
       <ul class="overflow">
       <li>
-              <a href="/" class="internal back">
+              <a href="https://blogs.keyyard.xyz" class="internal back">
               ← Go back
               </a>
             </li>
