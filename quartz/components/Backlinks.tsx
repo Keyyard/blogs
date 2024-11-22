@@ -15,17 +15,11 @@ const Backlinks: QuartzComponent = ({
   return (
     <div class={classNames(displayClass, "backlinks")}>
       <ul class="overflow">
-        {backlinkFiles.length > 0 ? (
-          backlinkFiles.map((f) => (
-            <li>
+      <li>
               <a href="/" class="internal back">
               ← Go back
               </a>
             </li>
-          ))
-        ) : (
-          <li>{i18n(cfg.locale).components.backlinks.noBacklinksFound}</li>
-        )}
       </ul>
     </div>
   )
