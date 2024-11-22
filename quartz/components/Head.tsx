@@ -56,7 +56,7 @@ export default (() => {
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
   <meta property="og:url" content={`${cfg.baseUrl}/${slug}`} />
-  <meta property="og:site_name" content="Your Blog Name" />
+  <meta property="og:site_name" content="Keyyard's Growth Blog" />
   {cfg.baseUrl && <meta property="og:image" content={ogImagePath} />}
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="675" />

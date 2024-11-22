@@ -18,6 +18,7 @@ Join me as I take this journey, with hopes it can bring value and **inspiration*
 ### Navigation
 
 - **[The Money Scale](/the-money-scale)**: Discover how wealth reflects life skills, not just professional expertise.
+- **[From Loss to Lessons](/from-loss-to-lessons)**: Dive into a personal recount of financial missteps in trading and investing, uncovering the psychological pitfalls and lessons learned along the way.
 
 <details>
 <summary>first version of this writing</summary>
