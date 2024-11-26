@@ -92,15 +92,6 @@ export default (() => {
   </script>
 
   {/* Additional CSS and JS */}
-  <style>
-  {`
-            body {
-              background-color: #F2F7F2;
-              color: #314531;
-              font-family: 'Source Code Pro', monospace;
-            }
-          `}
-</style>
   {css.map((href) => (
     <link key={href} href={href} rel="stylesheet" type="text/css" spa-preserve />
   ))}
