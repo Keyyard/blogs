@@ -25,7 +25,6 @@ export default (() => {
 <head>
   <title>{title}</title>
   <meta charSet="utf-8" />
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z3K6D9SXF4"></script>
   <script>
     {`window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -99,12 +98,24 @@ export default (() => {
   </script>
 
   {/* Additional CSS and JS */}
+  <style>
+  body {
+    background-color: #F2F7F2;
+    color: #314531;
+    font-family: 'Source Code Pro', monospace;
+  }
+</style>
   {css.map((href) => (
     <link key={href} href={href} rel="stylesheet" type="text/css" spa-preserve />
   ))}
-  {js
-    .filter((resource) => resource.loadTime === "beforeDOMReady")
-    .map((res) => JSResourceToScriptElement(res, true))}
+      {js
+        .filter((resource) => resource.loadTime === "beforeDOMReady")
+        .map((res) => JSResourceToScriptElement(res, true))}
+      {js
+        .filter((resource) => resource.loadTime === "afterDOMReady")
+        .map((res) => (
+          <script key={res.src} src={res.src} defer></script>
+        ))}
 </head>
     )
   }
