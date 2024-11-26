@@ -25,12 +25,6 @@ export default (() => {
 <head>
   <title>{title}</title>
   <meta charSet="utf-8" />
-  <script>
-    {`window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-Z3K6D9SXF4');`}
-  </script>
 
   {/* Fonts Caching and Preconnect */}
   {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
@@ -99,11 +93,13 @@ export default (() => {
 
   {/* Additional CSS and JS */}
   <style>
-  body {
-    background-color: #F2F7F2;
-    color: #314531;
-    font-family: 'Source Code Pro', monospace;
-  }
+  {`
+            body {
+              background-color: #F2F7F2;
+              color: #314531;
+              font-family: 'Source Code Pro', monospace;
+            }
+          `}
 </style>
   {css.map((href) => (
     <link key={href} href={href} rel="stylesheet" type="text/css" spa-preserve />
