@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { useEffect } from 'react';
 
-const CommonNinjaComments = () => {
+export function CommonNinjaComments(): any {
   useEffect(() => {
     const script = document.createElement('script');
     script.src = "https://cdn.commoninja.com/sdk/latest/commonninja.js";

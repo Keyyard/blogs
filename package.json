@@ -1,10 +1,10 @@
 {
-  "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "name": "@keyyard/blogs",
+  "description": "Keyyard's personal blog and digital garden | Technology used: Quartz by Jacky Zhao",
   "private": true,
   "version": "4.4.0",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "Keyyard",
   "license": "MIT",
   "homepage": "https://quartz.jzhao.xyz",
   "repository": {
@@ -29,7 +29,23 @@
     "digital-garden",
     "markdown",
     "blog",
-    "quartz"
+    "quartz",
+    "money scale",
+    "wealth and skill",
+    "value of money",
+    "financial success",
+    "life skills",
+    "personal growth",
+    "self-improvement journey",
+    "inspiration",
+    "mindset development",
+    "insightful blog",
+    "investing journey",
+    "trading lessons",
+    "financial recovery",
+    "scams in cryptocurrency",
+    "emotional trading",
+    "risk management in trading"
   ],
   "bin": {
     "quartz": "./quartz/bootstrap-cli.mjs"
@@ -109,6 +125,9 @@
     "esbuild": "^0.24.0",
     "prettier": "^3.3.3",
     "tsx": "^4.19.2",
-    "typescript": "^5.6.3"
+    "typescript": "^5.6.3",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0" 
+
   }
 }

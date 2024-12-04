@@ -21,6 +21,11 @@ export default (() => {
     const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
 
     const slug = fileData.slug === "index" ? "" : fileData.slug
+    const keywords = [
+      "money scale", "wealth and skill", "value of money", "financial success", "life skills",
+      "personal growth", "self-improvement journey", "inspiration", "mindset development", "insightful blog",
+      "investing journey", "trading lessons", "financial recovery", "scams in cryptocurrency", "emotional trading", "risk management in trading"
+    ].join(", ");
     return (
 <head>
   <title>{title}</title>
@@ -38,6 +43,7 @@ export default (() => {
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="icon" href={iconPath} />
   <meta name="description" content={description} />
+  <meta name="keywords" content={keywords} />
   <meta name="generator" content="Quartz" />
 
   {/* Canonical URL for SEO */}
