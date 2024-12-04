@@ -1,49 +1,25 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { classNames } from "../util/lang"
-// @ts-ignore
-import script from "./scripts/comments.inline"
+import React, { useEffect } from 'react';
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types";
 
-type Options = {
-  provider: "giscus"
-  options: {
-    repo: `${string}/${string}`
-    repoId: string
-    category: string
-    categoryId: string
-    themeUrl?: string
-    lightTheme?: string
-    darkTheme?: string
-    mapping?: "url" | "title" | "og:title" | "specific" | "number" | "pathname"
-    strict?: boolean
-    reactionsEnabled?: boolean
-    inputPosition?: "top" | "bottom"
-  }
-}
+export default (() => {
+  const Comments: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
+    useEffect(() => {
+      const script = document.createElement('script');
+      script.src = "https://cdn.commoninja.com/sdk/latest/commonninja.js";
+      script.defer = true;
+      document.body.appendChild(script);
 
-function boolToStringBool(b: boolean): string {
-  return b ? "1" : "0"
-}
+      return () => {
+        document.body.removeChild(script);
+      };
+    }, []);
 
-export default ((opts: Options) => {
-  const Comments: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     return (
-      <div
-        class={classNames(displayClass, "giscus")}
-        data-repo={opts.options.repo}
-        data-repo-id={opts.options.repoId}
-        data-category={opts.options.category}
-        data-category-id={opts.options.categoryId}
-        data-mapping={opts.options.mapping ?? "url"}
-        data-strict={boolToStringBool(opts.options.strict ?? true)}
-        data-reactions-enabled={boolToStringBool(opts.options.reactionsEnabled ?? true)}
-        data-input-position={opts.options.inputPosition ?? "bottom"}
-        data-light-theme={opts.options.lightTheme ?? "light"}
-        data-dark-theme={opts.options.darkTheme ?? "dark"}
-      ></div>
-    )
-  }
+      <div className={displayClass}>
+        <div className="commonninja_component pid-a50ed076-a886-4b3b-bc38-b29fa924333a"></div>
+      </div>
+    );
+  };
 
-  Comments.afterDOMLoaded = script
-
-  return Comments
-}) satisfies QuartzComponentConstructor<Options>
+  return Comments;
+}) satisfies QuartzComponentConstructor;
