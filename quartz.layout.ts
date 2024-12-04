@@ -8,7 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   ],
   afterBody: [
     Component.Backlinks(),
-    Component.Darkmode()
+    Component.Darkmode(),
+    Component.CommonNinjaComments()
     // Component.Comments({
     //   provider: 'giscus',
     //   options: {
