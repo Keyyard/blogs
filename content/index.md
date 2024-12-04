@@ -7,18 +7,20 @@ meta:
 
 ## Welcome to My Journey: Growth Through Words
 
-I wouldn’t usually consider myself a writer or a blogger, aside from those literature classes I enjoyed. This blog is a **personal space for growth**—a place to track my thoughts, insights, and experiences as I evolve.
+I wouldn’t usually consider myself a writer or a blogger, aside from those literature classes I enjoyed. This blog is a _personal space for growth_—a place to track my thoughts, insights, and experiences as I evolve.
 
 ### What to Expect
 
-Here, you’ll find posts on **valuable mindsets**, **brilliant works**, and **inspiration** from different corners of life. These writings aim to be insightful, sharing snippets of wisdom I pick up along the way. My purpose isn’t to become a professional writer but to **reflect on my growth** over time.
+Here, you’ll find posts on _valuable mindsets_, _brilliant works_, and _inspiration_ from different corners of life. These writings aim to be insightful, sharing snippets of wisdom I pick up along the way. My purpose isn’t to become a professional writer but to _reflect on my growth_ over time.
 
-Join me as I take this journey, with hopes it can bring value and **inspiration** to you, too.
+Join me as I take this journey, with hopes it can bring value and _inspiration_ to you, too.
 
 ### Navigation
 
-- **[The Money Scale](/the-money-scale)**: Discover how wealth reflects life skills, not just professional expertise.
-- **[From Loss to Lessons](/from-loss-to-lessons)**: Dive into a personal recount of financial missteps in trading and investing, uncovering the psychological pitfalls and lessons learned along the way.
+- _[The Money Scale](/the-money-scale)_: Discover how wealth reflects life skills, not just professional expertise.
+- _[From Loss to Lessons](/from-loss-to-lessons)_: Dive into a personal recount of financial missteps in trading and investing, uncovering the psychological pitfalls and lessons learned along the way.
+
+- *[My Portfolio Website](https://keyyard.xyz)*: Explore my portfolio website to learn more about my projects and interests.
 
 <details>
 <summary>first version of this writing</summary>

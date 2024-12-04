@@ -7,21 +7,21 @@ meta:
 
 ## Does Money Define Your Value? A Look at Wealth and Skill
 
-Money is often seen as a measure of **who you are**, **how skilled you are**, and ultimately, **what you’re worth**. While it may sound controversial, there’s a belief that financial success is intertwined with life skills, not just career abilities.
+Money is often seen as a measure of _who you are_, _how skilled you are_, and ultimately, _what you’re worth_. While it may sound controversial, there’s a belief that financial success is intertwined with life skills, not just career abilities.
 
 ### Money and Talent: The Bigger Picture
 
-Consider a scenario: you are a **talented video editor**. However, despite your expertise, you may not be as wealthy as others with seemingly lower skill levels. This raises an essential question—are you truly skilled if wealth is lacking?
+Consider a scenario: you are a _talented video editor_. However, despite your expertise, you may not be as wealthy as others with seemingly lower skill levels. This raises an essential question—are you truly skilled if wealth is lacking?
 
-Many **skills contribute to financial success** beyond just technical abilities. The art of networking, financial management, and client-building are part of a broader skill set necessary for lasting success.
+Many _skills contribute to financial success_ beyond just technical abilities. The art of networking, financial management, and client-building are part of a broader skill set necessary for lasting success.
 
 ### Is Money a True Reflection of Skill?
 
-In my view, money acts as a **scale** that measures skills across all life areas. If someone is **financially successful**, it often reflects their abilities beyond their profession. If wealth is lacking, it may be a sign to develop new skills in areas beyond the technical.
+In my view, money acts as a _scale_ that measures skills across all life areas. If someone is _financially successful_, it often reflects their abilities beyond their profession. If wealth is lacking, it may be a sign to develop new skills in areas beyond the technical.
 
 ### Navigation
 
-- **[From Loss to Lessons](/from-loss-to-lessons)**: Dive into a personal recount of financial missteps in trading and investing, uncovering the psychological pitfalls and lessons learned along the way.
+- _[From Loss to Lessons](/from-loss-to-lessons)_: Dive into a personal recount of financial missteps in trading and investing, uncovering the psychological pitfalls and lessons learned along the way.
 
 <details>
 <summary>first version of this writing</summary>
