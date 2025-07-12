@@ -61,7 +61,7 @@ So while I still think the "money scale" is interesting, it's not the whole stor
 
 I've been using this framework to look at my own situation. That's when I tell myself to improve and grow, learn more and more skills aside the cores.
 
-I ain't perfect, I do realized alot of those stuff I mentioned but still, sometimes I find myself struggling at the same thing actually, haha. Sometimes I get burned out, distracted by the noise, or just lose sight of the bigger picture. But I think that's fine, as long as I still keep trying.
+I ain't perfect. I do realized alot of those stuff I mentioned but still, sometimes I find myself struggling at the same thing actually, haha. Sometimes I get burned out, distracted by the noise, or just lose sight of the bigger picture. But I think that's fine, as long as I am still trying.
 
 Sometimes it's uncomfortable to realize the gaps, but at least it gives me something concrete to work on.
 
