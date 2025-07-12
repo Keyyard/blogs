@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Poppins",
-        body: "Open Sans",
+        header: "Silkscreen",
+        body: "Tiktok Sans",
         code: "JetBrains Mono",
       },
       colors: {
