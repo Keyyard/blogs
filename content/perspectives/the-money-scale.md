@@ -51,7 +51,7 @@ My apologies if it sounds too harsh, but I think this is a fair way to look at i
 I realized I was being too simplistic. There's a lot of stuff that affects wealth that has nothing to do with skills:
 
 - People have different starting points.
-- Timing matters (and luck sometimnes plays a role here)
+- Timing matters (and luck sometimes plays a role here)
 - Some people just don't care about making money (and that's fine as long as they are happy)
 - Life isn't fair anyways.
 
