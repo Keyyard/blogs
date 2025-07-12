@@ -8,15 +8,16 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Keyyard's Blogs",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-Z3K6D9SXF4",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "blogs.keyyard.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -28,15 +29,15 @@ const config: QuartzConfig = {
         code: "IBM Plex Mono",
       },
       colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
+                lightMode: {
+          light: "#F2F7F2",
+          lightgray: "#E4EFE5",
+          gray: "#536f5a", // #b8b8b8
+          darkgray: "#536f5a",
+          dark: "#314531",
+          secondary: "#49684A",
           tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          highlight: "rgba(143, 169, 151, 0.15)",
           textHighlight: "#fff23688",
         },
         darkMode: {
@@ -44,10 +45,10 @@ const config: QuartzConfig = {
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
+          dark: "#F2F7F2",
+          secondary: "#7BA47C",
           tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          highlight: "rgba(143, 169, 151, 0.15)",
           textHighlight: "#b3aa0288",
         },
       },
