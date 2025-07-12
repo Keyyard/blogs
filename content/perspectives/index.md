@@ -8,11 +8,9 @@ draft: false
 date: 2025-07-13
 ---
 
-# Perspectives
-
 This is a collection of my thoughts on _personal growth_, _skill development_, _mindset_, and the messy process of figuring out who I want to become.
 
-## What you'll find here
+# What you'll find here
 
 Personal development feels like such a buzzword these days, doesn't it? Everyone's selling courses and promising to transform your life in 30 days. That's not what this is about.
 
@@ -20,9 +18,9 @@ In my view, real growth happens when you start questioning the things everyone t
 
 These articles are my attempt to make sense of those questions. They're based on observations, experiences, and honestly, a lot of trial and error on my own journey.
 
-## Current Articles
+# Current Articles
 
-### [The Money Scale: Measuring Success Beyond Wealth](/perspectives/the-money-scale/)
+## [The Money Scale: Measuring Success Beyond Wealth](/perspectives/the-money-scale/)
 
 This one explores something I've been thinking about for a while. I have met a lot of talented people who ain't making the money they deserve. And my thoughts on it is in the article.
 
