@@ -3,7 +3,7 @@ title: "Perspectives"
 description: "My thoughts on growth, skills, and becoming who you want to be. Not your typical self-help content."
 permalink: /perspectives/
 aliases: ["/perspectives/", "/development/"]
-tags: [perspectives, growth, life-skills, mindset, journey]
+tags: [perspectives, growth, life-skills, mindset, journey, wealth, self-improvement, creativity]
 draft: false
 date: 2025-07-13
 ---

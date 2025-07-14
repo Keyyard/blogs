@@ -2,8 +2,8 @@
 title: "Writing Things"
 description: "This is just my notes for writing things."
 permalink: /writing-things/
-aliases: ["/writing-things/", "/creativity/"]
-tags: [writing, notes, guide]
+aliases: ["/writing-things/"]
+tags: [writing, self-improvement, growth, creativity]
 draft: false
 date: 2025-07-13
 ---

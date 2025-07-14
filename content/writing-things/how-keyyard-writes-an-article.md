@@ -3,7 +3,7 @@ title: "How Keyyard writes an article"
 description: "For Keyyard, this is a guide to myself for next time I write something."
 permalink: /writing-things/how-keyyard-writes-an-article/
 aliases: ["/how-keyyard-writes-an-article.html"]
-tags: [writing, notes, guide]
+tags: [writing, self-improvement, growth, creativity]
 draft: false
 date: 2024-11-07
 ---

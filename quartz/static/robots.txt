@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blogs.keyyard.xyz/sitemap.xml
+
+# Allow crawling of all content
+Crawl-delay: 1
