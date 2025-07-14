@@ -5,7 +5,7 @@ permalink: /perspectives/the-money-scale/
 aliases: ["/the-money-scale.html"]
 tags: [money, success, life-skills, wealth-building, mindset, financial-literacy]
 draft: false
-date: 2025-07-13
+date: 2024-11-07
 ---
 
 There are a lot of talented people in the world, but not all of them are wealthy. This is because wealth is not just a reflection of their career skills, but their overall life skills.
