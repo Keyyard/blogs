@@ -1,1 +1,1 @@
-blogs via Quartz
+my personal digital garden, where I document my journey, thoughts, and experiences. It's a place for me to share what I learn, reflect on my progress, and connect with others who might find value in my journey.

@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Keyyard Blogs",
-    pageTitleSuffix: " | Personal Journey & Insights",
+    pageTitle: "Keyyard Digital Garden",
+    pageTitleSuffix: " | Personal Mindset & Growth",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

@@ -1,5 +1,5 @@
 ---
-title: Keyyard Blogs
+title: Keyyard Digital Garden
 description: My Digital Garden, where I write about my journey with perspectives, mindset, writing, technology, and more.
 permalink: /
 aliases: ["/index.html"]
