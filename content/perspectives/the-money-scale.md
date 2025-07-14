@@ -10,7 +10,15 @@ date: 2024-11-07
 
 There are a lot of talented people in the world, but not all of them are wealthy. This is because wealth is not just a reflection of their career skills, but their overall life skills.
 
-## What I've noticed about wealth and skills
+# Table of Contents
+- [What I've noticed about wealth and skills](#what-ive-noticed-about-wealth-and-skills)
+- [The skills I keep seeing in wealthy people](#the-skills-i-keep-seeing-in-wealthy-people)
+- [My "money scale" theory](#my-money-scale-theory)
+- [But hold on - this theory has holes](#but-hold-on---this-theory-has-holes)
+- [What this means for me](#what-this-means-for-me)
+- [Final thoughts](#final-thoughts)
+
+# What I've noticed about wealth and skills
 
 Take this video editor I know. The guy is _phenomenal_ at what he does - his work is creative, technically perfect, everything you'd want. But he's constantly stressed about money while other people in the industry who produce mediocre work are thriving.
 
