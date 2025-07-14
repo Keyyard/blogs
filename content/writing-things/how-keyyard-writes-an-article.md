@@ -45,19 +45,9 @@ For me, I have a "How Keyyard writes an article" as a phrase keyword here, and "
 
 Next, **high value content**. This is the most important part of the article. You want to provide value to your readers, something that they can learn from or use in their own lives.
 
-## What counts as value
-
-This can be in the form of:
-- Tips and tricks
-- Your own experiences
-- Examples and stories
-- Data to support your points
-
-The key is to make it relatable and useful to your audience.
-
-## Why it matters
-
 The more value you provide, the more likely people will share your article and come back for more.
+
+These values can be like tips & tricks, cool experiences that they can relate to, or just something that makes them wow-ed, this is cool I gotta save this.
 
 The algorithms of search engines will prioritize high quality content, like:
 - Time people spend reading your article
@@ -70,14 +60,7 @@ The algorithms of search engines will prioritize high quality content, like:
 
 Okay, so this is where you shows your personality. Like, having your personal input in the articles, your style, your stories, your experiences...
 
-## Why it matters
-
-This makes your article:
-- Unique
-- Closer to people
-- More relatable
-
-They will feel like talking to a friend instead of reading a news article.
+This is how you make your readers feel connected, close, familiar with you. They will feel like talking to a friend instead of reading a news article.
 
 > Personal example: Notice how I say "Okay, so" and "imma" in my writing? That's my authentic voice coming through.
 
