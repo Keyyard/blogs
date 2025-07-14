@@ -51,11 +51,14 @@ text,
 a,
 li,
 ol,
-ul,
+ul {
+  word-break: normal;
+  hyphens: none;
+}
+
 .katex,
 .math {
   overflow-wrap: anywhere;
-  /* tr and td removed from list of selectors for overflow-wrap, allowing them to use default 'normal' property value */
 }
 
 .math {

@@ -31,3 +31,5 @@ Tho, I don't have all the answers. I'm just figuring things out as I go, same as
 Maybe these thoughts will spark something for you, maybe they won't. Either way is totally fine with me. I'm just putting my ideas out there and seeing what happens.
 
 If something here makes you think "yeah, that makes sense" or "tf is he saying" - either reaction is cool with me. Hit me up with your thoughts, I'd love to hear them!
+
+---
