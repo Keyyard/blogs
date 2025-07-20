@@ -1,8 +1,9 @@
 ---
 title: Keyyard Digital Garden
 description: My Digital Garden, where I write about my journey with perspectives, mindset, writing, technology, and more.
+socialDescription: "Welcome to Keyyard's Digital Garden - a personal space for thoughts on growth, mindset, writing, and the journey of self-improvement."
 permalink: /
-aliases: ["/index.html"]
+aliases: ["/index"]
 tags: [perspectives, growth, writing, mindset, money, wealth, journey, self-improvement, creativity, life-skills]
 draft: false
 date: 2025-07-09
