@@ -1,7 +1,17 @@
 User-agent: *
 Allow: /
 
+# Sitemap
 Sitemap: https://blogs.keyyard.xyz/sitemap.xml
 
-# Allow crawling of all content
-Crawl-delay: 1
+# Block admin areas if any
+Disallow: /admin/
+Disallow: /_next/
+Disallow: /api/
+
+# Allow all content
+Allow: /perspectives/
+Allow: /writing-things/
+Allow: /coding-things/
+Allow: /tags/
+Allow: /static/
