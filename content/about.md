@@ -2,6 +2,7 @@
 title: About Keyyard
 description: Learn more about Keyyard, the person behind Keyyard Blogs. Discover my background in technology, coding, and creative pursuits.
 socialDescription: Meet Keyyard - a self-taught Minecraft Bedrock developer, coder, and indie writer sharing insights on technology, creativity, and personal growth.
+tags: [writing, self-improvement, growth, journey]
 date: 2025-07-14
 draft: false
 ---
@@ -23,6 +24,8 @@ And then add-ons came along! Add-ons were this new way to enhance gameplay in Mi
 Started with just making simple modifications, but I eventually learned how to make more and more complex systems. Shout out to [solvedDev](https://github.com/solvedDev), when I was just a kid starting out, he was the one who inspired me, taught me how logic works, and even helped me fix my code. I learned to make custom items by replacing unused IDs of flowers, making custom-like mobs by using variants... It was a tough journey, but I gained a lot of love and attention from the Redstone Mechanic Addon, made with [theEnderface](https://mcpedl.com/user/theenderface/). 
 
 All of this was just because I loved the original Redstone Mechanics Addon, and I just tagged the creator on Twitter, saying "hey, I can add this to your addon, dm?" - and there we go!
+
+![logdotzip](/static/about/logdotzip.webp)
 
 After that, I started making more and more add-ons for myself, for community, and finally for the Minecraft Official Marketplace. I've been working with some of the best developers in the community, and I've learned so much from them. Thanks to everyone who's been there - shout out to [Ash](https://github.com/Justash01), [Trea](https://github.com/TreaBeane), and many more!
 
