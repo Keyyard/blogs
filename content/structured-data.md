@@ -2,7 +2,7 @@
 title: "SEO Guide for Quartz Blogs"
 description: "Complete guide to SEO optimization and meta data configuration for Quartz static sites"
 tags: [seo, quartz, blogging, meta-data, guide]
-draft: false
+draft: true
 date: 2025-07-21
 ---
 
