@@ -29,7 +29,7 @@ const config: QuartzConfig = {
         code: "JetBrains Mono",
       },
       colors: {
-                lightMode: {
+        lightMode: {
           light: "#F2F7F2",
           lightgray: "#E4EFE5",
           gray: "#536f5a", // #b8b8b8
