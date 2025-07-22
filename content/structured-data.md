@@ -23,44 +23,51 @@ This is a comprehensive guide for optimizing SEO on Quartz static sites. If you'
 ## Quartz-Supported Frontmatter for SEO
 
 ### Essential SEO Fields
+
 ```yaml
 title: "Your Page Title"
-description: "Page description for search results" 
+description: "Page description for search results"
 socialDescription: "Different description for social media previews"
 socialImage: "path/to/your-image.webp"
 tags: [relevant, keywords, as, tags]
 ```
 
 ### URL and Navigation
+
 ```yaml
 permalink: /custom-url-path
 aliases: ["/old-url", "/another-alias"]
 ```
 
 ### Publishing Control
+
 ```yaml
-draft: false  # true = hidden from search engines
+draft: false # true = hidden from search engines
 date: 2024-11-07
 ```
 
 ## SEO Best Practices for Quartz
 
 ### 1. Title Optimization
+
 - Keep titles under 60 characters
 - Include your main keyword
 - Make it descriptive and engaging
 
-### 2. Description Optimization  
+### 2. Description Optimization
+
 - Use both `description` and `socialDescription`
 - `description`: For search engine results (155-160 chars)
 - `socialDescription`: For social media previews (can be longer)
 
 ### 3. Social Images
+
 - Use `socialImage` field (not `ogImage`)
 - Quartz auto-generates OG images if you don't specify one
 - Images should be 1200x630 pixels for best results
 
 ### 4. Tags as Keywords
+
 - Use `tags` instead of `keywords` field
 - Quartz creates tag pages automatically
 - Tags help with internal linking and topic organization
@@ -68,12 +75,15 @@ date: 2024-11-07
 ## Manual SEO Enhancements
 
 For custom meta tags or structured data, you would need to:
+
 1. Modify Quartz's Head component
 2. Add custom meta tag generation
 3. Or use external tools after site generation
 
 ## Why Author/Keywords Don't Work
+
 Quartz doesn't process `author` or `keywords` frontmatter fields. Instead:
+
 - Use `tags` for keyword-like functionality
 - Add author info in your content or site configuration
 - Rely on Quartz's automatic meta tag generation
@@ -81,23 +91,29 @@ Quartz doesn't process `author` or `keywords` frontmatter fields. Instead:
 ## Advanced Tips
 
 ### Internal Linking Strategy
+
 Link related articles together to help search engines understand your content structure:
+
 ```markdown
 Check out my thoughts on [writing better content](/writing-things/how-keyyard-writes-an-article).
 ```
 
 ### Tag Optimization
+
 Create topic clusters using tags:
+
 - Group related content under the same tags
 - Use specific tags like `money-mindset` instead of just `money`
 - Tags automatically create listing pages at `/tags/tag-name`
 
 ### URL Structure
+
 - Use clean, descriptive URLs
 - Avoid special characters in filenames
 - Organize content in logical folders
 
 ### Google Search Console Setup
+
 1. Verify your site ownership
 2. Submit your sitemap: `https://blogs.keyyard.xyz/sitemap.xml`
 3. Monitor indexing status with `site:blogs.keyyard.xyz`

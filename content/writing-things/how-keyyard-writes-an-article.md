@@ -13,12 +13,13 @@ date: 2024-11-07
 Okay, so Imma write down some notes for myself to guide me next time I write an article. This is a personal guide, and I know it's missing a lot of things, or even wrong. But yea, if you have any suggestions or advices, please let me know, I ain't perfect I tryna learn tho.
 
 ## Table of Contents
+
 - [1. Keywords - What you are writing about](#1-keywords---what-you-are-writing-about)
 - [2. High value content - Write something nice](#2-high-value-content---write-something-nice)
 - [3. The authentic voice - Be yourself while you write](#3-the-authentic-voice---be-yourself-while-you-write)
 - [4. The UIUX - Your appearance online](#4-the-uiux---your-appearance-online)
-    - [The UI](#the-ui)
-    - [The UX](#the-ux)
+  - [The UI](#the-ui)
+  - [The UX](#the-ux)
 - [5. How I structure my articles](#5-how-i-structure-my-articles)
 
 ## 1. Keywords - What you are writing about
@@ -52,6 +53,7 @@ The more value you provide, the more likely people will share your article and c
 These values can be like tips & tricks, cool experiences that they can relate to, or just something that makes them wow-ed, this is cool I gotta save this.
 
 The algorithms of search engines will prioritize high quality content, like:
+
 - Time people spend reading your article
 - How many people share it
 - How many people come back to read it again
@@ -67,12 +69,15 @@ This is how you make your readers feel connected, close, familiar with you. They
 > Personal example: Notice how I say "Okay, so" and "imma" in my writing? That's my authentic voice coming through.
 
 ## 4. The UIUX - Your appearance online
+
 _UIUX_ means _User Interface and User Experience_. I think I'm getting too technical again. But yea, let's break it down.
 
 ### The UI
+
 _The UI_ means the way how things look. But except from making them readable, you should make it comfortable to read, for example here I make the website minimalism, with soft colors and nice fonts.
 
 ### The UX
+
 _The UX_ means how we gonna make people feels comfortable to reach your articles, read them, and come back later. The article should be scannable, easy to read, easy to navigate. Like, they can find the exact section they want to read, or the exact point they want to know and not having to read the whole things.
 
 This also includes optimizing your medias, making the page loads faster, people are impatient.
@@ -90,6 +95,7 @@ For more insights on personal development and skill building, check out my thoug
 Here's my current approach to organizing articles:
 
 ### Basic structure
+
 1. **A Title** - enough to describe the article, but not too long
 2. **A Brief description** - sets expectations
 3. **Split into sections** - with headings like questions, and contents answering them
@@ -99,5 +105,3 @@ Here's my current approach to organizing articles:
 I feel like questions are easier to read and understand, and also easier to scan. People can jump to exactly what they want to know.
 
 > Personal note: This is just my current method, and it's not perfect. Having said, I am not a writer or so, this is just my approach to write. I will be updating this later as I learn more about writing a blog, articles,.. etc. Hit me up with your advices, suggestions, what you feel missing here, or what you think I should add, I would love to hear them!
-
-
