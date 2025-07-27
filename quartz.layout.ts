@@ -5,15 +5,13 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [
-        Component.FollowPrompt(),
-  ],
+  afterBody: [Component.FollowPrompt()],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/keyyard",
       "Subscribe for New Posts": "https://follow.it/keyyard-digital-garden?leanpub",
       "Main Website": "https://keyyard.xyz",
-        },
+    },
   }),
 }
 
