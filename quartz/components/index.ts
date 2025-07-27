@@ -24,6 +24,7 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 
+import FollowPrompt from "./FollowPrompt"
 export {
   ArticleTitle,
   Content,
@@ -50,4 +51,5 @@ export {
   Comments,
   Flex,
   ConditionalRender,
+  FollowPrompt,
 }
