@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       tagId: "G-Z3K6D9SXF4",
     },
     locale: "en-US",
-    baseUrl: "blogs.keyyard.xyz",
+    baseUrl: process.env.NODE_ENV === "development" ? "" : "blogs.keyyard.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -29,7 +29,7 @@ const config: QuartzConfig = {
         code: "JetBrains Mono",
       },
       colors: {
-                lightMode: {
+        lightMode: {
           light: "#F2F7F2",
           lightgray: "#E4EFE5",
           gray: "#536f5a", // #b8b8b8
@@ -56,6 +56,7 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true }),
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
@@ -67,7 +68,6 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
