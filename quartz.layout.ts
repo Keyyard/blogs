@@ -11,7 +11,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/keyyard",
-      "Subscribe for New Posts": "https://follow.it/keyyard-digital-garden?leanpub",
+      "Subscribe to my newsletter": "https://follow.it/keyyard-digital-garden?leanpub",
       "Main Website": "https://keyyard.xyz",
         },
   }),
