@@ -2,7 +2,19 @@
 title: Keyyard Digital Garden
 description: My Digital Garden, where I write about my journey with perspectives, mindset, writing, technology, and more.
 socialDescription: "Welcome to Keyyard's Digital Garden - a personal space for thoughts on growth, mindset, writing, and the journey of self-improvement."
-tags: [perspectives, growth, writing, mindset, money, wealth, journey, self-improvement, creativity, life-skills]
+tags:
+  [
+    perspectives,
+    growth,
+    writing,
+    mindset,
+    money,
+    wealth,
+    journey,
+    self-improvement,
+    creativity,
+    life-skills,
+  ]
 draft: false
 date: 2025-07-09
 ---
@@ -18,7 +30,6 @@ This is a collection of my thoughts on _personal growth_, _skill development_, _
 ### [Writing Things](/writing-things/)
 
 This is where I will just write random things that I want to write down. Like, it could be just how to write better articles, notes, make better content writing, or just random thoughts that I want to write down. This is for _myself_.
-
 
 ---
 
