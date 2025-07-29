@@ -4,7 +4,7 @@ description: "This is my coding nerd space, welcome devs."
 permalink: /coding-things/
 aliases: ["/coding-things/"]
 tags: [coding, self-improvement, growth, creativity, journey]
-draft: true
+draft: false
 date: 2025-07-26
 ---
 
@@ -12,8 +12,4 @@ This is my nerd place for coding things. I will be writing about coding, program
 
 # Current Articles
 
-## [How Keyyard made full score on Page Speed Insights](/coding-things/how-keyyard-made-full-score-on-page-speed-insights/)
-
-This one is just my personal guide to write blogs, articles,.. stuff you are reading here haha. I'm trying to follow and improve it rn.
-
----
+coming soon.. stay tuned!
