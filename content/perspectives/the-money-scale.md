@@ -14,6 +14,7 @@ date: 2024-11-07
 There are a lot of talented people in the world, but not all of them are wealthy. This is because wealth is not just a reflection of their career skills, but their overall life skills.
 
 ## Table of Contents
+
 - [What I've noticed about wealth and skills](#what-ive-noticed-about-wealth-and-skills)
 - [The skills I keep seeing in wealthy people](#the-skills-i-keep-seeing-in-wealthy-people)
 - [My "money scale" theory](#my-money-scale-theory)
@@ -32,20 +33,24 @@ At first, I thought maybe the world is just unfair (which, let's be honest, it o
 This is just what I've noticed, but the people I know who are doing well financially seem to share certain traits that go way beyond their professional skills:
 
 ### Soft Skills and Communication
+
 - Networking, relationship-building, and communication. They connect with clients, other professionals and colleagues nicely.
 - They can read a room and adapt their approach.
 - Emotional intelligence - they understand people and how to motivate them.
 
 ### Financial Management Skills
+
 - They are not just earning the money, but managing it along.
 - They find opportunities for multiple income streams, both stable and side hustles.
 - They invest their money smart with discipline and strategy (and I still struggle with this one).
 
 ### Business and Market Skills
+
 - They understand their position and their value in the market. They don't undersell themselves.
 - They can negotiate effectively, whether it's with clients or for their own salary.
 
 ### Self-Management and Productivity
+
 - They set boundaries for their work and personal life. This helps them avoid burnout and stay productive for a long period.
 - They prioritize their time and energy on what matters most, ignore all the noises, the dramas, and the distractions.
 
@@ -62,6 +67,7 @@ My apologies if it sounds too harsh, but I think this is a fair way to look at i
 I realized I was being too simplistic. There's a lot of stuff that affects wealth that has nothing to do with skills:
 
 ### External Factors Beyond Individual Control
+
 - People have different starting points.
 - Timing matters (and luck sometimes plays a role here)
 - Some people just don't care about making money (and that's fine as long as they are happy)
