@@ -2,7 +2,8 @@
 title: "The Money Scale: Measuring Success Beyond Wealth"
 description: "Explore how wealth reflects life skills, not just professional expertise. Discover why financial success goes beyond talent in 'The Money Scale'."
 socialDescription: "Discover why talented people aren't always wealthy. Learn about the ecosystem of life skills that contribute to financial success beyond just professional expertise."
-aliases: ["/the-money-scale"]
+permalink: /perspectives/the-money-scale/
+aliases: ["/perspectives/the-money-scale/"]
 tags: [money-mindset, life-skills, mindset, growth, wealth, self-improvement]
 draft: false
 date: 2024-11-07
