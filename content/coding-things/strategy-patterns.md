@@ -1,8 +1,6 @@
 ---
 title: "Strategy Patterns"
 description: "Strategy patterns are design patterns that allow you to define a family of algorithms, encapsulate each one, and make them interchangeable. This is useful for situations where you want to choose an algorithm at runtime."
-permalink: /coding-things/strategy-patterns/
-aliases: ["/coding-things/strategy-patterns/"]
 tags: [coding, self-improvement, growth, creativity, journey]
 draft: true
 date: 2025-07-29

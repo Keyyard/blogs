@@ -1,8 +1,6 @@
 ---
 title: "Coding Things"
 description: "This is my coding nerd space, welcome devs."
-permalink: /coding-things/
-aliases: ["/coding-things/"]
 tags: [coding, self-improvement, growth, creativity, journey]
 draft: false
 date: 2025-07-26

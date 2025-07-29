@@ -2,7 +2,6 @@
 title: "How Keyyard made full score on Page Speed Insights"
 description: "Discover the strategies Keyyard implemented to achieve a perfect score on Page Speed Insights."
 socialDescription: "Learn how Keyyard optimized their website performance to reach the top of Page Speed Insights rankings."
-aliases: ["/how-keyyard-made-full-score-on-page-speed-insights"]
 tags: [web-performance, optimization, seo, marketing, coding]
 draft: true
 date: 2024-11-26
