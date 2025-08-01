@@ -18,7 +18,7 @@ Github profiles are just your [Github](https://github.com/) profile. They serve 
 Most people create polished GitHub profiles to showcase their skills to potential employers. But that's just scratching the surface. The real value goes much deeper than impressing recruiters.
 
 # My perspective
-My Github profile is literately, my reflection. The achievements, the stats, the streak on contributions. It represents my journey, in actions.
+My Github profile is literally, my reflection. The achievements, the stats, the streak on contributions. It represents my journey, in actions.
 
 It tracks my learning, when I have learned something and getting used to it, I can finally put it on my profile. Seeing something new there just let me know that I have earned it.
 
@@ -41,11 +41,11 @@ Nope. They are not entirely wrong, a flashy Github is not going to drive you any
 
 But, stop. People are going too fast and forgot to look around, it's not just about the code. It's about showing the ambition, the passion, the consistency, and the discipline to keep going. It's about building a personal brand that reflects who you are as a developer.
 
-For myself, I have been using it to tell myself a story of my evolution. I see myself from a no-one who literately can't think what I can do to write down, into someone seeing what should I select to write about. It's a journey of self-discovery and growth.
+For myself, I have been using it to tell myself a story of my evolution. I see myself from a no-one who literally can't think what I can do to write down, into someone seeing what should I select to write about. It's a journey of self-discovery and growth.
 
 # The Bottom Line
 
-Building a Github profile is not about vanity or impressing others. It's about creating a system for yourself to keeps developing your character here. A friendly, authentic profile helps you connect with other developers and tells your story.
+Building a Github profile is not about vanity or impressing others. It's about creating a system for yourself to keeps shaping your character. A friendly, authentic profile helps you connect with other developers and tells your story.
 
 Shout out to [Pybash1](https://github.com/Pybash1), whose inspired me to write things down and share my thoughts. I hope this article helps you see the value in crafting your own profile, not just for others, but for yourself.
 
