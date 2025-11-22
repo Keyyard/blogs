@@ -7,34 +7,32 @@ draft: false
 date: 2024-07-30
 ---
 
-I have been seeing some heated debates on Facebook, Twitter lately. Some developers argue that a Github profile, readme with streaks, stats is pointless. "Recruiters don't care about your Github profile", "Just write good code",.etc
+There has been a continuous debate on Facebook, X (formerly Twitter) that Github profiles are useless, even with stats, streaks, details,..etc. "Recruiters donot care about your Github profile".
 
-I, DISAGREE, with all my respect to senior devs & all out there.
+With all my respect to the developers & seniors out there, I am sorry but I disagree.
+
+So, first of all. What is it.
 
 # What is a Github Profile?
 Github profiles are just your [Github](https://github.com/) profile. They serve as a profile for your code space on internet, showcasing your work, contributions, and interests.
 
 # Why polish your Github profile?
-Most people create polished GitHub profiles to showcase their skills to potential employers. But that's just scratching the surface. The real value goes much deeper than impressing recruiters.
+Certain people creates polished GitHub profiles to impress their employers, however I believe that is just scratching the surface as the real value goes much deeper than that.
 
 # My perspective
-My Github profile is literately, my reflection. The achievements, the stats, the streak on contributions. It represents my journey, in actions.
-
-It tracks my learning, when I have learned something and getting used to it, I can finally put it on my profile. Seeing something new there just let me know that I have earned it.
+In my view, I see it as a reflection of my journey. The stats, the streaks, the technologies that are mentioned works like achievements. I would allow myself to put them there as long as I have the ability to do it. I find this as an engaging method to push myself to discover more.
 
 ## Stats & Stars
-The Github Readme Stats let me see my progress like my contributions counts, my stars, my code changes,.. and that all means something to me. I love when I see it at like, a few and grows to more later. Yes, numbers ain't that matters, but they do tell a story to me.
+The Github Readme Stats allow me to view my progress like my contributions counts, stars, code lines,.. and that all means something. I love when I see it at like, a few and grows to more later. Yes, numbers ain't that matters, but they do tell a story to me.
 
-Github stars are a form of social proof that the project is valuable to others and it's being recognized by the community. I love the feeling when there is someone staring my repository, it validates that my project solves a problem for another developer out there.
+On the other hand, Github stars are a form of social proof that the project is valuable to others and it's being recognized by the community than just myself. I love the feeling when a notification pops up that someone starred my repository. The numbers here not only encourage me but also prove that my work is community worthy.
 
 ## Streaks: Gamify your growth
-The Github Streaks is how I gamify my coding life. A streak helps me remain my habit of coding by forcing myself to code, or at least do something everyday. By that, I would be building consistency and discipline. I understand that not everyday I'm going to do at my peak, but the least thing is I showed up. I don't wait, I don't let motivation decides when I code or not, I will just code.
+Shout out to [DenverCoder1](https://github.com/DenverCoder1) for making [Github readme streak stats](https://github.com/DenverCoder1/github-readme-streak-stats).
 
-It's not about showing off to others, it's me! It pushes me to do at least a line of code, fix a small typo, a bug, or even write something!
+Denver's innovation displays the number of days that you code continously. This creation is how I gamify my coding lifestyle by doing at least something everyday to keep the streak. Additionally, this counts every single bit of commitments, which mean even the smallest can lit up the new number. The streak number got me pursuing persistency. Percisely, this maintains discipline and creates an endless motivation to code.
 
-Having the consistency and discipline to code regularly has been invaluable. It has helped me win myself, not waiting for something to do, not relying on motivation but JUST DO IT. This has been a magical thing for me that I love doing something in my desk now, everyday. From the main work for Minecraft Marketplace, to personal projects, then writing,.. Everything has been impacted positively. 
-
-Lazy days? Do small tasks! Not everything has to be huge, just small ones can keep you moving forward. Not a big step? Just a small one is enough. As long as you are moving then you are making progress. That's how I think.
+I believe after you have read all that, this does not matters to others anymore.
 
 # So are the critics wrong?
 Nope. They are not entirely wrong, a flashy Github is not going to drive you anywhere. Your main professional skills and experiences matter more in the long run, and matter the most I believe.
