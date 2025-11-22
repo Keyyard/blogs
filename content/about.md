@@ -21,7 +21,7 @@ And then add-ons came along! Add-ons were this new way to enhance gameplay in Mi
 
 ### From tinkering to actually building things
 
-Started with just making simple modifications, but I eventually learned how to make more and more complex systems. Shout out to [solvedDev](https://github.com/solvedDev), when I was just a kid starting out, he was the one who inspired me, taught me how logic works, and even helped me fix my code. I learned to make custom items by replacing unused IDs of flowers, making custom-like mobs by using variants... It was a tough journey, but I gained a lot of love and attention from the Redstone Mechanic Addon, made with [theEnderface](https://mcpedl.com/user/theenderface/). 
+Started with just making simple modifications, but I eventually learned how to make more and more complex systems. Shout out to [solvedDev](https://github.com/solvedDev), when I was just a kid starting out, he was the one who inspired me, taught me how logic works, and even helped me fix my code. I learned to make custom items by replacing unused IDs of flowers, making custom-like mobs by using variants... It was a tough journey, but I gained a lot of love and attention from the Redstone Mechanic Addon, made with [theEnderface](https://mcpedl.com/user/theenderface/).
 
 All of this was just because I loved the original Redstone Mechanics Addon, and I just tagged the creator on Twitter, saying "hey, I can add this to your addon, dm?" - and there we go!
 
@@ -72,4 +72,4 @@ Thanks for taking the time to learn more about me. I hope you find something use
 
 ---
 
-*Thanks for being here with me on this journey.*
+_Thanks for being here with me on this journey._

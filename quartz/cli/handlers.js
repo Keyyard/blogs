@@ -1,9 +1,8 @@
-import { promises } from "fs"
+import fs, { promises } from "fs"
 import path from "path"
 import esbuild from "esbuild"
 import { styleText } from "util"
 import { sassPlugin } from "esbuild-sass-plugin"
-import fs from "fs"
 import { intro, outro, select, text } from "@clack/prompts"
 import { rm } from "fs/promises"
 import chokidar from "chokidar"
@@ -186,7 +185,8 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
     // get a preferred link resolution strategy
     linkResolutionStrategy = exitIfCancel(
       await select({
-        message: `Choose how Quartz should resolve links in your content. This should match Obsidian's link format. You can change this later in \`quartz.config.ts\`.`,
+        message:
+          "Choose how Quartz should resolve links in your content. This should match Obsidian's link format. You can change this later in `quartz.config.ts`.",
         options: [
           {
             value: "shortest",
@@ -217,7 +217,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
   // setup remote
   execSync(
-    `git remote show upstream || git remote add upstream https://github.com/jackyzha0/quartz.git`,
+    "git remote show upstream || git remote add upstream https://github.com/jackyzha0/quartz.git",
     { stdio: "ignore" },
   )
 
@@ -411,7 +411,7 @@ export async function handleBuild(argv) {
         res.end()
       }
 
-      let fp = req.url?.split("?")[0] ?? "/"
+      const fp = req.url?.split("?")[0] ?? "/"
 
       // handle redirects
       if (fp.endsWith("/")) {
@@ -444,7 +444,7 @@ export async function handleBuild(argv) {
         }
 
         // does /regular/index.html exist? if so, redirect to /regular/
-        let indexFp = path.posix.join(fp, "index.html")
+        const indexFp = path.posix.join(fp, "index.html")
         if (fs.existsSync(path.posix.join(argv.output, indexFp))) {
           return redirect(fp + "/")
         }
@@ -495,7 +495,7 @@ export async function handleUpdate(argv) {
   console.log(`\n${styleText(["bgGreen", "black"], ` Quartz v${version} `)} \n`)
   console.log("Backing up your content")
   execSync(
-    `git remote show upstream || git remote add upstream https://github.com/jackyzha0/quartz.git`,
+    "git remote show upstream || git remote add upstream https://github.com/jackyzha0/quartz.git",
   )
   await stashContentFolder(contentFolder)
   console.log(
