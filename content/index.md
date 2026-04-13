@@ -15,6 +15,10 @@ I wouldn't usually consider myself a writer or a blogger. This blog is a _person
 
 This is a collection of my thoughts on _personal growth_, _skill development_, _mindset_, and the messy process of figuring out who I want to become.
 
+### [Productivity Psychology](/productivity-psychology/)
+
+This is where I explore the psychological aspects of productivity, habit formation, and the design patterns that help (or hinder) our progress.
+
 ### [Writing Things](/writing-things/)
 
 This is where I will just write random things that I want to write down. Like, it could be just how to write better articles, notes, make better content writing, or just random thoughts that I want to write down. This is for _myself_.
