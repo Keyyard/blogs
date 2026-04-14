@@ -1,7 +1,7 @@
 ---
 title: Why Habit Tracker Punishment Doesn't Actually Work (And What to Do Instead)
 description: Most habit apps use streaks and punishment to keep you going. Here's why that causes habit streak anxiety, what 381 users said, and a gentler approach.
-date: 2026-04-14
+date: 2026-03-12
 category: Productivity Psychology
 tags:
   [
@@ -13,6 +13,8 @@ tags:
     growth,
   ]
 ---
+
+*If you've ever felt like you're failing because you can't keep up with multiple goals at once, you might be experiencing a hidden identity crisis. [Read about it here.](/productivity-psychology/blog_post_identity_crisis)*
 
 There's this specific kind of dread I know too well. You open your habit tracker after a few days away, and there it is. A red X. A broken streak. A little notification that says something like "You lost your 47-day streak!" And for a second you just... close the app. Maybe for good.
 
@@ -26,7 +28,7 @@ This thinking borrows from behavioral psychology, specifically operant condition
 
 But here's the thing that gets overlooked. The goal isn't to avoid missing a habit. The goal is to actually want to do the habit.
 
-**Loss aversion** kicks in hard with these apps. We feel losses more intensely than equivalent gains. Losing a 30-day streak feels genuinely worse than the satisfaction of hitting day 30 in the first place. So the app has trained you to feel anxious instead of proud. You're not building a habit anymore. You're managing a fear.
+**Loss aversion** kicks in hard with these apps. We feel losses more intensely than equivalent gains. Losing a 30 day streak feels genuinely worse than the satisfaction of hitting day 30 in the first place. So the app has trained you to feel anxious instead of proud. You're not building a habit anymore. You're managing a fear.
 
 And that's a subtle but brutal difference.
 
