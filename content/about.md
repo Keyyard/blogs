@@ -3,7 +3,7 @@ title: About Keyyard
 description: Learn more about Keyyard, the person behind Keyyard Blogs. Discover my background in technology, coding, and creative pursuits.
 socialDescription: Meet Keyyard - a self-taught Minecraft Bedrock developer, coder, and indie writer sharing insights on technology, creativity, and personal growth.
 tags: [writing, self-improvement, growth, journey]
-date: 2025-07-14
+date: 2024-07-14
 draft: false
 ---
 
