@@ -69,6 +69,10 @@ function sluggify(s: string): string {
     .replace(/\/$/, "")
 }
 
+export function isRelativeSegment(s: string): boolean {
+  return /^\.{0,2}$/.test(s)
+}
+
 export function slugifyFilePath(fp: FilePath, excludeExt?: boolean): FullSlug {
   fp = stripSlashes(fp) as FilePath
   let ext = getFileExtension(fp)
@@ -99,6 +103,12 @@ export function transformInternalLink(link: string): RelativeURL {
   let segments = fplike.split("/").filter((x) => x.length > 0)
   let prefix = segments.filter(isRelativeSegment).join("/")
   let fp = segments.filter((seg) => !isRelativeSegment(seg) && seg !== "").join("/")
+
+  // If it is just "." or "..", it's a relative link to folder/parent.
+  // We need to handle this correctly.
+  if (fp === "" && prefix !== "") {
+    return (_addRelativeToStart(prefix) + (folderPath ? "/" : "") + anchor) as RelativeURL
+  }
 
   // manually add ext here as we want to not strip 'index' if it has an extension
   const simpleSlug = simplifySlug(slugifyFilePath(fp as FilePath))
@@ -287,10 +297,6 @@ function _hasFileExtension(s: string): boolean {
 
 export function getFileExtension(s: string): string | undefined {
   return s.match(/\.[A-Za-z0-9]+$/)?.[0]
-}
-
-function isRelativeSegment(s: string): boolean {
-  return /^\.{0,2}$/.test(s)
 }
 
 export function stripSlashes(s: string, onlyStripPrefix?: boolean): string {
