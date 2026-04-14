@@ -74,7 +74,7 @@ The fix isn't complicated in theory, even if it's hard to build.
 
 You need a way to track progress *per identity*, not as a single aggregate.
 
-Not "I did 3 out of 8 things today" — but "I showed up as The Developer today and hit my coding habit. I didn't show up as The Student and that's okay because I wasn't in that mode."
+Not "I did 3 out of 8 things today" but "I showed up as The Developer today and hit my coding habit. I didn't show up as The Student and that's okay because I wasn't in that mode."
 
 That reframe is huge. It removes the guilt of all the identities you *didn't* serve today. And it makes the progress you *did* make feel like something real, not just a partial score on a list that will never end.
 
