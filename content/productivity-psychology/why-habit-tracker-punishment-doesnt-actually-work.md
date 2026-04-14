@@ -3,7 +3,15 @@ title: Why Habit Tracker Punishment Doesn't Actually Work (And What to Do Instea
 description: Most habit apps use streaks and punishment to keep you going. Here's why that causes habit streak anxiety, what 381 users said, and a gentler approach.
 date: 2026-04-14
 category: Productivity Psychology
-tags: [productivity-psychology, habit-tracker, habitica-alternative, non-punitive-design, self-improvement, growth]
+tags:
+  [
+    productivity-psychology,
+    habit-tracker,
+    habitica-alternative,
+    non-punitive-design,
+    self-improvement,
+    growth,
+  ]
 ---
 
 There's this specific kind of dread I know too well. You open your habit tracker after a few days away, and there it is. A red X. A broken streak. A little notification that says something like "You lost your 47-day streak!" And for a second you just... close the app. Maybe for good.

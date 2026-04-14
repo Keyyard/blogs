@@ -99,44 +99,45 @@ export default (() => {
                 ? {
                     "@context": "https://schema.org",
                     "@type": "Article",
-                    "headline": fileData.frontmatter.title,
-                    "description": description,
-                    "url": socialUrl,
-                    "datePublished": fileData.dates?.created
+                    headline: fileData.frontmatter.title,
+                    description: description,
+                    url: socialUrl,
+                    datePublished: fileData.dates?.created
                       ? new Date(fileData.dates.created).toISOString()
                       : undefined,
-                    "dateModified": fileData.dates?.modified
+                    dateModified: fileData.dates?.modified
                       ? new Date(fileData.dates.modified).toISOString()
                       : undefined,
-                    "author": {
+                    author: {
                       "@type": "Person",
-                      "name": "Keyyard",
-                      "url": "https://keyyard.xyz"
+                      name: "Keyyard",
+                      url: "https://keyyard.xyz",
                     },
-                    "publisher": {
+                    publisher: {
                       "@type": "Person",
-                      "name": "Keyyard",
-                      "url": "https://keyyard.xyz"
+                      name: "Keyyard",
+                      url: "https://keyyard.xyz",
                     },
-                    "isPartOf": {
+                    isPartOf: {
                       "@type": "Blog",
-                      "name": "Keyyard Digital Garden",
-                      "url": "https://blogs.keyyard.xyz"
-                    }
+                      name: "Keyyard Digital Garden",
+                      url: "https://blogs.keyyard.xyz",
+                    },
                   }
                 : {
                     "@context": "https://schema.org",
                     "@type": "Blog",
-                    "name": "Keyyard Digital Garden",
-                    "description": "Personal blog on productivity psychology, life RPG philosophy, mindset, and the indie developer journey.",
-                    "url": "https://blogs.keyyard.xyz",
-                    "author": {
+                    name: "Keyyard Digital Garden",
+                    description:
+                      "Personal blog on productivity psychology, life RPG philosophy, mindset, and the indie developer journey.",
+                    url: "https://blogs.keyyard.xyz",
+                    author: {
                       "@type": "Person",
-                      "name": "Keyyard",
-                      "url": "https://keyyard.xyz"
-                    }
-                  }
-            )
+                      name: "Keyyard",
+                      url: "https://keyyard.xyz",
+                    },
+                  },
+            ),
           }}
         />
 

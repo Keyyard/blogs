@@ -2,7 +2,19 @@
 title: Keyyard — Productivity, Mindset & Indie Dev Blog
 description: Personal blog by Keyyard on productivity psychology, gamified habits, mindset, and life as an indie developer. Creator of Productivitism — Life RPG.
 socialDescription: "Welcome to Keyyard's Digital Garden - a personal space for thoughts on growth, mindset, writing, and the journey of self-improvement."
-tags: [perspectives, growth, writing, mindset, money, wealth, journey, self-improvement, creativity, life-skills]
+tags:
+  [
+    perspectives,
+    growth,
+    writing,
+    mindset,
+    money,
+    wealth,
+    journey,
+    self-improvement,
+    creativity,
+    life-skills,
+  ]
 draft: false
 date: 2025-07-09
 ---
@@ -22,7 +34,6 @@ This is where I explore the psychological aspects of productivity, habit formati
 ### [Writing Things](/writing-things/)
 
 This is where I will just write random things that I want to write down. Like, it could be just how to write better articles, notes, make better content writing, or just random thoughts that I want to write down. This is for _myself_.
-
 
 ---
 
