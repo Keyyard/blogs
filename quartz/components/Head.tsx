@@ -85,6 +85,60 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
+
+        {/* Canonical URL */}
+        <link rel="canonical" href={socialUrl} />
+
+        {/* Structured Data — Article for posts, WebSite for index */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(
+              fileData.frontmatter?.title && fileData.slug !== "index"
+                ? {
+                    "@context": "https://schema.org",
+                    "@type": "Article",
+                    "headline": fileData.frontmatter.title,
+                    "description": description,
+                    "url": socialUrl,
+                    "datePublished": fileData.dates?.created
+                      ? new Date(fileData.dates.created).toISOString()
+                      : undefined,
+                    "dateModified": fileData.dates?.modified
+                      ? new Date(fileData.dates.modified).toISOString()
+                      : undefined,
+                    "author": {
+                      "@type": "Person",
+                      "name": "Keyyard",
+                      "url": "https://keyyard.xyz"
+                    },
+                    "publisher": {
+                      "@type": "Person",
+                      "name": "Keyyard",
+                      "url": "https://keyyard.xyz"
+                    },
+                    "isPartOf": {
+                      "@type": "Blog",
+                      "name": "Keyyard Digital Garden",
+                      "url": "https://blogs.keyyard.xyz"
+                    }
+                  }
+                : {
+                    "@context": "https://schema.org",
+                    "@type": "Blog",
+                    "name": "Keyyard Digital Garden",
+                    "description": "Personal blog on productivity psychology, life RPG philosophy, mindset, and the indie developer journey.",
+                    "url": "https://blogs.keyyard.xyz",
+                    "author": {
+                      "@type": "Person",
+                      "name": "Keyyard",
+                      "url": "https://keyyard.xyz"
+                    }
+                  }
+            )
+          }}
+        />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js

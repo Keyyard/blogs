@@ -7,7 +7,7 @@ draft: false
 date: 2024-11-07
 ---
 
-# The Money Scale: Understanding Wealth Beyond Professional Skills
+# The Money Scale: Measuring Success Beyond Wealth
 
 There are a lot of talented people in the world, but not all of them are wealthy. This is because wealth is not just a reflection of their career skills, but their overall life skills.
 
@@ -82,3 +82,7 @@ Money definitely isn't everything, and it's not the ultimate measure of a person
 I'm still figuring this out myself, but that's my current thinking on why talent alone doesn't always translate to financial success. You can read more about my personal journey and approach to growth in my [writing and perspectives](/writing-things/).
 
 I'm have my admiration for people who are talented, and people who are wealthy, and people who are both. Don't get me wrong, I think they are all great. It's just who I want to be, which is why I try to learn and grow from the person I want to be.
+
+---
+
+**Related reading:** [Why Habit Tracker Punishment Doesn't Work](/productivity-psychology/why-habit-tracker-punishment-doesnt-actually-work/) — on motivation design and why fear-based systems fail long-term.

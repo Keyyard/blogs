@@ -79,3 +79,7 @@ If you want to see how I built this into a full app, Productivitism is available
 ---
 
 #productivity-psychology #habit-tracker #habitica-alternative #non-punitive-design #self-improvement #growth
+
+---
+
+**Related reading:** [The Money Scale](/perspectives/the-money-scale/) — on why life skills matter more than raw talent. | [How Keyyard Writes an Article](/writing-things/how-keyyard-writes-an-article/) — on writing with an authentic voice.

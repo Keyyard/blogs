@@ -1,6 +1,6 @@
 ---
-title: Keyyard Digital Garden
-description: My Digital Garden, where I write about my journey with perspectives, mindset, writing, technology, and more.
+title: Keyyard — Productivity, Mindset & Indie Dev Blog
+description: Personal blog by Keyyard on productivity psychology, gamified habits, mindset, and life as an indie developer. Creator of Productivitism — Life RPG.
 socialDescription: "Welcome to Keyyard's Digital Garden - a personal space for thoughts on growth, mindset, writing, and the journey of self-improvement."
 tags: [perspectives, growth, writing, mindset, money, wealth, journey, self-improvement, creativity, life-skills]
 draft: false
