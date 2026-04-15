@@ -50,11 +50,11 @@ The result was the worst kind of paralysis, not the kind where you have nothing 
 
 Two books cracked it open for me.
 
-The first was *Atomic Habits* by James Clear — specifically the part about identity-based habits. The idea that you don't build habits by setting goals, you build them by deciding what kind of person you want to be. "I want to exercise" is a goal. "I am an athlete" is an identity.
+The first was _Atomic Habits_ by James Clear — specifically the part about identity-based habits. The idea that you don't build habits by setting goals, you build them by deciding what kind of person you want to be. "I want to exercise" is a goal. "I am an athlete" is an identity.
 
 That reframe hit hard. Because I already had multiple identities. I just hadn't given them separate space.
 
-The second was *How to Calm Your Mind* by Chris Bailey — about finding productivity in anxious times. Bailey talks about how anxiety often comes from cognitive overload, from carrying too many open loops in your head at once. The fix isn't to do more. It's to close the loops you're not working on right now.
+The second was _How to Calm Your Mind_ by Chris Bailey — about finding productivity in anxious times. Bailey talks about how anxiety often comes from cognitive overload, from carrying too many open loops in your head at once. The fix isn't to do more. It's to close the loops you're not working on right now.
 
 Both books pointed at the same thing: clarity comes from separation, not from cramming everything together and trying to manage it all at once.
 
@@ -92,4 +92,4 @@ If you're juggling more than one identity right now (and if you're building some
 
 ---
 
-*Next in this series: [What Is Multi-Character Architecture?](/productivity-psychology/blog_post_mca_v3/) — the design thinking behind why the separation works.*
+_Next in this series: [What Is Multi-Character Architecture?](/productivity-psychology/blog_post_mca_v3/) — the design thinking behind why the separation works._

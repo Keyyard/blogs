@@ -24,7 +24,7 @@ And I still felt paralyzed opening it.
 
 Because labeling a task "fitness" doesn't stop it from sitting next to "fix auth bug" and "practice IELTS reading." They're all there. They're all visible. They all make me feel like I should be doing something. The label tells me what kind of task it is, but it doesn't help my brain figure out which self to be right now.
 
-I kept thinking about identity-based habits from James Clear's *Atomic Habits*. The idea that you don't build habits by setting goals, you build them by deciding who you want to become. "I want to exercise" is weak. "I am someone who moves every day" is different.
+I kept thinking about identity-based habits from James Clear's _Atomic Habits_. The idea that you don't build habits by setting goals, you build them by deciding who you want to become. "I want to exercise" is weak. "I am someone who moves every day" is different.
 
 And I thought: I'm already trying to be multiple identities. What if each one actually had its own space?
 
@@ -92,4 +92,4 @@ I'm genuinely curious whether it does.
 
 ---
 
-*The personal story behind why I split into characters is here: [Why I Built 5 Versions of Myself](/productivity-psychology/blog_post_5_versions/)*
+_The personal story behind why I split into characters is here: [Why I Built 5 Versions of Myself](/productivity-psychology/blog_post_5_versions/)_

@@ -20,7 +20,7 @@ I've been thinking about this for a while. Not just in the abstract, but in the 
 
 For a long time, I had multiple "sides" to my life running in parallel. Developer side. Student side. Creative side. Health side. And every productivity app I tried made me smash all of that into one inbox, one streak counter, one timeline.
 
-So I'd open the app and see: *write code, go for a run, finish the essay, draw something, read a chapter*. All in a list. All judged equally. All competing for the same limited mental energy. This list feels long and draining when I have too many things on my head at once.
+So I'd open the app and see: _write code, go for a run, finish the essay, draw something, read a chapter_. All in a list. All judged equally. All competing for the same limited mental energy. This list feels long and draining when I have too many things on my head at once.
 
 And instead of doing any of them, I'd close the app and doomscroll on Instagram.
 
@@ -34,7 +34,7 @@ The problem was the model underneath: one person, one inbox, one identity.
 
 That model works if you have a single dominant role in your life right now. You're in crunch mode at work. You're training for a marathon. You're writing a book. Everything else can wait.
 
-But a lot of people, even maybe most people who read productivity content are not living that life. They're managing *multiple* ongoing identities at the same time. Developer at work, student in the evenings, trying to keep some kind of fitness habit, maybe building a side project.
+But a lot of people, even maybe most people who read productivity content are not living that life. They're managing _multiple_ ongoing identities at the same time. Developer at work, student in the evenings, trying to keep some kind of fitness habit, maybe building a side project.
 
 When you force all of that into one list, you don't get clarity. You get a mirror that shows you every unfulfilled version of yourself at once.
 
@@ -46,7 +46,7 @@ That's not motivating. That's paralyzing.
 
 Think about what it feels like to open your task manager at 9 PM after a long day of work.
 
-You see: *write blog post, reply to emails, 30-minute run, practice guitar, study for exam*.
+You see: _write blog post, reply to emails, 30-minute run, practice guitar, study for exam_.
 
 Your brain has to shift contexts just to process the list. And each item belongs to a different version of you like the writer-you, the professional-you, the athlete-you, the musician-you, the student-you.
 
@@ -72,11 +72,11 @@ What's missing is the recognition that different roles have different rhythms, d
 
 The fix isn't complicated in theory, even if it's hard to build.
 
-You need a way to track progress *per identity*, not as a single aggregate.
+You need a way to track progress _per identity_, not as a single aggregate.
 
 Not "I did 3 out of 8 things today" but "I showed up as The Developer today and hit my coding habit. I didn't show up as The Student and that's okay because I wasn't in that mode."
 
-That reframe is huge. It removes the guilt of all the identities you *didn't* serve today. And it makes the progress you *did* make feel like something real, not just a partial score on a list that will never end.
+That reframe is huge. It removes the guilt of all the identities you _didn't_ serve today. And it makes the progress you _did_ make feel like something real, not just a partial score on a list that will never end.
 
 ---
 
@@ -103,4 +103,4 @@ Because maybe it is.
 
 ---
 
-*If this hit close to home, the next post in this series is about what happens when you try to build habits across multiple roles at once — and why punishment-based trackers make that even harder. [Read it here.](/productivity-psychology/why-habit-tracker-punishment-doesnt-actually-work/)*
+_If this hit close to home, the next post in this series is about what happens when you try to build habits across multiple roles at once — and why punishment-based trackers make that even harder. [Read it here.](/productivity-psychology/why-habit-tracker-punishment-doesnt-actually-work/)_
