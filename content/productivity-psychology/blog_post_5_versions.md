@@ -92,4 +92,4 @@ If you're juggling more than one identity right now (and if you're building some
 
 ---
 
-*Next in this series: [What Is Multi-Character Architecture?](/productivity-psychology/what-is-multi-character-architecture) — the design thinking behind why the separation works.*
+*Next in this series: [What Is Multi-Character Architecture?](/productivity-psychology/blog_post_mca_v3/) — the design thinking behind why the separation works.*
