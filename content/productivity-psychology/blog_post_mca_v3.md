@@ -92,4 +92,4 @@ I'm genuinely curious whether it does.
 
 ---
 
-*The personal story behind why I split into characters is here: [Why I Built 5 Versions of Myself](/productivity-psychology/why-i-built-5-versions-of-myself)*
+*The personal story behind why I split into characters is here: [Why I Built 5 Versions of Myself](/productivity-psychology/blog_post_5_versions/)*

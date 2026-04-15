@@ -14,7 +14,7 @@ tags:
   ]
 ---
 
-*If you've ever felt like you're failing because you can't keep up with multiple goals at once, you might be experiencing a hidden identity crisis. [Read about it here.](/productivity-psychology/blog_post_identity_crisis)*
+*If you've ever felt like you're failing because you can't keep up with multiple goals at once, you might be experiencing a hidden identity crisis. [Read about it here.](/productivity-psychology/blog_post_identity_crisis/)*
 
 There's this specific kind of dread I know too well. You open your habit tracker after a few days away, and there it is. A red X. A broken streak. A little notification that says something like "You lost your 47-day streak!" And for a second you just... close the app. Maybe for good.
 
