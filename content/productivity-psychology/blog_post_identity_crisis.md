@@ -103,4 +103,4 @@ Because maybe it is.
 
 ---
 
-*If this hit close to home, the next post in this series is about what happens when you try to build habits across multiple roles at once — and why punishment-based trackers make that even harder. [Read it here.](/productivity-psychology/why-habit-tracker-punishment-doesnt-actually-work)*
+*If this hit close to home, the next post in this series is about what happens when you try to build habits across multiple roles at once — and why punishment-based trackers make that even harder. [Read it here.](/productivity-psychology/why-habit-tracker-punishment-doesnt-actually-work/)*
