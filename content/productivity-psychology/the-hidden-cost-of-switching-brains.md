@@ -16,11 +16,12 @@ tags:
   ]
 ---
 
-*If you want to understand the full Multi-Character Architecture behind Productivitism, [read the deeper breakdown here.](/productivity-psychology/blog_post_mca_v3/)*
+_If you want to understand the full Multi-Character Architecture behind Productivitism, [read the deeper breakdown here.](/productivity-psychology/blog_post_mca_v3/)_
 
 For most of my early twenties, my calendar looked impressive and my brain felt cooked.
 
 On paper, I was "doing well":
+
 - shipping work for Microsoft Partners,
 - writing my thesis and doing academic research,
 - trying to stay healthy and keep a creative side project alive.
@@ -35,7 +36,7 @@ It took me a while to realize: the problem wasn't just time management. The prob
 
 The human brain is only about 2% of your body weight, but it burns a wildly disproportionate amount of your daily energy — roughly 20–25% of your total calories, even when you're "just thinking." That energy mostly goes into neurons talking to each other: maintaining electrical gradients, firing signals, and coordinating activity across different regions.
 
-In other words, thinking is not free. Even *idle* thinking is not free.
+In other words, thinking is not free. Even _idle_ thinking is not free.
 
 Now stack on top of that the way most of us live today: we don't just think about one thing deeply for a long time. We jump.
 
@@ -43,7 +44,7 @@ Now stack on top of that the way most of us live today: we don't just think abou
 - From exam prep to scrolling social media.
 - From debugging a production issue to comforting a friend.
 
-Each of those tasks leans on a different *configuration* of neural networks: some are more analytical, some more verbal, some more social and emotional, some more imaginative and open-ended.
+Each of those tasks leans on a different _configuration_ of neural networks: some are more analytical, some more verbal, some more social and emotional, some more imaginative and open-ended.
 
 There isn't a perfect one-to-one mapping — the brain is not cleanly modular — but functionally, it's useful to think in modes. And switching modes has a cost.
 
@@ -62,7 +63,7 @@ Every time you move from one cognitively demanding task to another, your brain h
 
 That process costs energy. It also costs time: most people don't instantly "slide" into deep focus on a new task — they need a ramp-up period, which is often filled with procrastination, checking messages, or staring at the wall.
 
-If you spend a whole day bouncing between four or five identities — Student, Employee, Researcher, Friend, Creator — you're asking your brain to pay that switch cost again and again. You can get to the end of the day utterly exhausted, without any single block of work feeling *that* heavy on its own.
+If you spend a whole day bouncing between four or five identities — Student, Employee, Researcher, Friend, Creator — you're asking your brain to pay that switch cost again and again. You can get to the end of the day utterly exhausted, without any single block of work feeling _that_ heavy on its own.
 
 From the outside, it looks like you "didn't do that much."
 From the inside, your nervous system knows exactly how hard it was.
