@@ -22,6 +22,10 @@ These articles are my attempt to make sense of those questions. They're based on
 
 This one explores something I've been thinking about for a while. I have met a lot of talented people who ain't making the money they deserve. And my thoughts on it is in the article.
 
+## [Negative Dopamine People](/perspectives/negative-dopamine-people/)
+
+Not all dopamine comes from likes and cat videos. Some people are hooked on the dopamine of being angry and toxic. This article explains it from what I understand.
+
 ---
 
 Tho, I don't have all the answers. I'm just figuring things out as I go, same as everyone else. What I do have is a lot of _curiosity_ about why things work the way they do, and I like sharing what I've learned along the way, not all but yea some I do.

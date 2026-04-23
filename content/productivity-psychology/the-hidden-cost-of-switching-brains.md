@@ -34,7 +34,7 @@ It took me a while to realize: the problem wasn't just time management. The prob
 
 ## Your Brain Is Small, but It's Hungry
 
-The human brain is only about 2% of your body weight, but it burns a wildly disproportionate amount of your daily energy — roughly 20–25% of your total calories, even when you're "just thinking." That energy mostly goes into neurons talking to each other: maintaining electrical gradients, firing signals, and coordinating activity across different regions.
+The human brain is only about 2% of your body weight, but it burns a wildly disproportionate amount of your daily energy, roughly 20–25% of your total calories, even when you're "just thinking." That energy mostly goes into neurons talking to each other: maintaining electrical gradients, firing signals, and coordinating activity across different regions.
 
 In other words, thinking is not free. Even _idle_ thinking is not free.
 
@@ -46,7 +46,7 @@ Now stack on top of that the way most of us live today: we don't just think abou
 
 Each of those tasks leans on a different _configuration_ of neural networks: some are more analytical, some more verbal, some more social and emotional, some more imaginative and open-ended.
 
-There isn't a perfect one-to-one mapping — the brain is not cleanly modular — but functionally, it's useful to think in modes. And switching modes has a cost.
+There isn't a perfect one-to-one mapping because the brain is not cleanly modular, but functionally, it's useful to think in modes. And switching modes has a cost.
 
 ## Context Switching Is Not "Just" a Productivity Buzzword
 
@@ -115,7 +115,7 @@ Once I felt how different this way of thinking was, I wanted a tool that embodie
 
 [Productivitism](https://productivitism.com) is my attempt to turn this perspective into software — a **Multi-Character Architecture** instead of a monolithic one.
 
-Instead of a single, monolithic "You" with one list and one progress bar, Productivitism gives you multiple pixel-art characters — one for each identity you care about. Each character:
+Instead of a single, monolithic "You" with one list and one progress bar, Productivitism gives you multiple pixel-art characters, one for each identity you care about. Each character:
 
 - has its own habits, tasks, and focus sessions,
 - earns its own XP when you show up,
@@ -145,7 +145,7 @@ Designing for the brain means acknowledging:
 - switching modes amplifies that cost,
 - and modern life asks us to play more characters than ever before.
 
-A Multi-Character Architecture is my way of saying: if we're going to keep playing all these roles, the least we can do is give each one a proper place — and let our brain rest between costume changes.
+A Multi-Character Architecture is my way of saying: if we're going to keep playing all these roles, the least we can do is give each one a proper place and let our brain rest between costume changes.
 
 Productivitism is available for free on the [App Store](https://apps.apple.com/vn/app/productivitism-life-rpg/id6761625990).
 
@@ -155,4 +155,4 @@ Productivitism is available for free on the [App Store](https://apps.apple.com/v
 
 ---
 
-**Related reading:** [Why Habit Tracker Punishment Doesn't Actually Work](/productivity-psychology/why-habit-tracker-punishment-doesnt-actually-work/) — on non-punitive design and the psychology of streaks. | [The Identity Crisis Behind Most Productivity Failures](/productivity-psychology/blog_post_identity_crisis/) — on digital identity and the multi-character approach.
+**Related reading:** [Why Habit Tracker Punishment Doesn't Actually Work](/productivity-psychology/why-habit-tracker-punishment-doesnt-actually-work/) - on non-punitive design and the psychology of streaks. | [The Identity Crisis Behind Most Productivity Failures](/productivity-psychology/blog_post_identity_crisis/) - on digital identity and the multi-character approach.
