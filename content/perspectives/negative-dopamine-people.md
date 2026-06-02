@@ -3,7 +3,7 @@ title: "Negative Dopamine People: The Addiction to Being Toxic Online"
 description: "Why some people are so toxic to others online?"
 socialDescription: "Not all dopamine comes from likes and cat videos. Some people are hooked on the dopamine of being angry and toxic. This article explains it from what I understand."
 tags: [dopamine, internet, mindset, mental-health, online-culture, self-awareness]
-draft: false
+draft: true
 date: 2026-04-23
 ---
 
